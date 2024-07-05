@@ -11,3 +11,7 @@ footer{
 .intro{
   text-align: justify;
 }
+lable{
+  display:block;
+  margin-bottom:10px;
+}
