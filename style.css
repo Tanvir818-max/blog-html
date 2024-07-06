@@ -46,5 +46,26 @@ marquee{
   color:rgba(232, 65, 24,1.0);
   background-color:rgba(245, 246, 250,1.0);
   border-radius: 8px;
-
+}
+figcaption{
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 15px;
+  color: red;
+  /* text-shadow: 0px 5px 5px 10px; */
+  /* text-wrap:inherist; */
+}
+h5{
+  text-align: left;
+  font-size: 15px;
+  background-color: black;
+  /* background-size: 50%; */
+  color: whitesmoke;
+  padding: 5px;
+  border-radius: 10px;
+}
+h1{
+  background-color: blanchedalmond;
+  font-size: 30px;
+  /* text-shadow: 0 10 10 10; */
 }
