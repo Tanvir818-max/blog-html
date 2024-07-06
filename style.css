@@ -41,3 +41,10 @@ table{
   color: rgba(245, 246, 250,1.0); 
   border-radius: 10px;
 }
+marquee{
+  font-size: 20px;
+  color:rgba(232, 65, 24,1.0);
+  background-color:rgba(245, 246, 250,1.0);
+  border-radius: 8px;
+
+}
