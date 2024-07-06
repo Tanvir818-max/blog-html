@@ -1,3 +1,7 @@
+*{
+  margin: 2px;
+}
+
 nav>ul>li{
   display: inline;
   /* text-decoration:none; */
